@@ -22,8 +22,8 @@ Com base na hype _"Natty or Not"_ do fisiculturismo, aceitei o desafio das IAs G
 O projeto tem o intuito de criar imagens de acordo com cenários, tamanho da imagem, largura, clima, qualidade, realismo e  características das marcantes de lugares e pessoas.
 
 ## 🤖 Tecnologias Utilizadas
-[Liste as IAs Generativas e outras ferramentas usadas
-](https://www.seaart.ai/pt) e (https://pt.vidnoz.com/)
+(https://www.seaart.ai/pt) e (https://pt.vidnoz.com/)
+
 ## 🧐 Processo de Criação
 Buscando palavras chaves para construção das imagens.
 
